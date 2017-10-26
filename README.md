@@ -9,6 +9,7 @@ Go to http://0.0.0.0:32768/ and use an app
 
 ```
 git clone https://github.com/talantbekov123/unit_testing_class.git
+cd unit_testing_class
 docker build -t binary .
 docker run -d -P --name binary binary
 ```
