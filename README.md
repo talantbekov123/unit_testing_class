@@ -13,3 +13,7 @@ cd unit_testing_class
 docker build -t binary .
 docker run -d -P --name binary binary
 ```
+
+#OR
+
+just type `sh run_script`
